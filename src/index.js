@@ -70,14 +70,14 @@ function Page(){
     profilepic="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd09nBzGz1keRRd6RUDHbqqGGPb9BJPgRtRKiGTFhq4RD2d8dOcssyBCN-oM-h1FPxEAU&usqp=CAU"
     postDate="8/10/2022"
     postText="T20 World Cup 2022 Starts From 16 October in Austalia"
-    postImage="https://thesportmedia.com/wp-content/uploads/2022/03/T20-World-Cup-2022-1.webp"
+    postImage="https://fic.edu.uy/sites/default/files/styles/main_image/public/imagen_noticia1/quien%20es%20quien.JPG?itok=oKuXkNSP"
     />
   <Post
      name="Nico Kun"
       profilepic="https://dvyvvujm9h0uq.cloudfront.net/com/articles/1567146736-headshot-1.jpg"
       postDate="26 sep 2022"
       postText="//"
-      postImage="https://scontent.fkhi22-1.fna.fbcdn.net/v/t39.30808-6/309922856_485168960319322_5861732367481310660_n.jpg?stp=dst-jpg_p526x296&_nc_cat=101&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=Ok4JQBfu3IYAX-rEs5f&_nc_ht=scontent.fkhi22-1.fna&oh=00_AT96C_nvDTfxdEJiyMUeNrWptdtnwgKlXcgv8ufpmpt__A&oe=634D19A6"
+      postImage="https://fic.edu.uy/sites/default/files/styles/main_image/public/imagen_noticia1/DSC_0320-compressor.jpg?itok=pyOn4aVk"
       />  
     <Post
        name="ICC"
